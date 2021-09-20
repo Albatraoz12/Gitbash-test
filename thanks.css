@@ -1,0 +1,21 @@
+.thank-u{
+
+  text-align: center;
+  display: block;
+  
+
+}
+
+.thank-u p {
+
+  font-size: 18px;
+  font-weight: italic;
+}
+
+img{
+
+  display: block;
+  margin: 0 auto;
+  height: 50%;
+  width: 25%;
+}
